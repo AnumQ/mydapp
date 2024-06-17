@@ -1,14 +1,11 @@
 # Dapp
 
-This is a react app that demonstrates how to interact with a smart contract from a React app. 
-
+This is a React app that reads and writes to smart contract.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-
 ### `npm i`
 
 ### `npm start`
-
